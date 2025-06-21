@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\FinancialForecast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AFFA54-166B-4746-A76A-A30D5DE63CBA}|FinancialForecast\\FinancialForecast.csproj|c:\\users\\user\\desktop\\deep skilling\\cognizant prep\\financialforecast\\financialforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AFFA54-166B-4746-A76A-A30D5DE63CBA}|FinancialForecast\\FinancialForecast.csproj|solutionrelative:financialforecast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\FinancialForecast\\FinancialForecast\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialForecast\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\FinancialForecast\\FinancialForecast\\Program.cs",
+              "RelativeToolTip": "FinancialForecast\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:51:14.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
