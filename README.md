@@ -18,7 +18,8 @@ All Week 1 exercises have been implemented and committed with the respective out
 | Submodule | Topic | Exercise |
 |-----------|--------|----------|
 | 1 | Algorithms_Data Structures | **Exercise 2:** E-commerce Platform Search Function [📄Big O Notation](./1_Data%20structures%20and%20Algorithms/1_E-commerce%20Platform%20Search%20Function/Output/Big%20O%20Notation%20by%20Vaibhav%20Jain%20(2228077).pdf) |
-| 2 | Algorithms_Data Structures | **Exercise 7:** Financial Forecasting [Link Text](relative/path/to/file.pdf) |
+| 2 | Algorithms_Data Structures | **Exercise 7:** Financial Forecasting [📄Financial Forecasting](./1_Data%20structures%20and%20Algorithms/2_Financial%20Forecasting/Output/Financial%20Forecasting-2228077.pdf)
+ |
 
 ---
 
