@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|c:\\users\\user\\desktop\\deep skilling\\cognizant prep\\e-commerce platform search function\\e-commerce platform search function\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|solutionrelative:e-commerce platform search function\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|c:\\users\\user\\desktop\\deep skilling\\cognizant prep\\e-commerce platform search function\\e-commerce platform search function\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|solutionrelative:e-commerce platform search function\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|c:\\users\\user\\desktop\\deep skilling\\cognizant prep\\e-commerce platform search function\\e-commerce platform search function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E47DA516-1D5F-4024-9B4F-FF6468873217}|E-commerce Platform Search Function\\E-commerce Platform Search Function.csproj|solutionrelative:e-commerce platform search function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Search.cs",
+              "RelativeDocumentMoniker": "E-commerce Platform Search Function\\Search.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Search.cs",
+              "RelativeToolTip": "E-commerce Platform Search Function\\Search.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:31:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Product.cs",
+              "RelativeDocumentMoniker": "E-commerce Platform Search Function\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Product.cs",
+              "RelativeToolTip": "E-commerce Platform Search Function\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:24:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce Platform Search Function\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Deep Skilling\\Cognizant Prep\\E-commerce Platform Search Function\\E-commerce Platform Search Function\\Program.cs",
+              "RelativeToolTip": "E-commerce Platform Search Function\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:23:35.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
