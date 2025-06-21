@@ -1,6 +1,6 @@
 # learning-program-solutions
 
-This repository was created by **Vaibhav Jain (2228077)** as part of the **Cognizant Deep Skilling Nurture 4.0** program.
+This repository was created by **Vaibhav Jain (2228077) Superset id (6360533)** as part of the **Cognizant Deep Skilling Nurture 4.0** program.
 
 ## 📁 Week 1 Status: ✅ Completed
 
